@@ -1,0 +1,14 @@
+{
+    "firstname":"Fake",
+    "lastname":"Carrier",
+    "phoneNumber":"3434555334",
+    "email":"qa+fake11@gorigz.com",
+    "password":"123456",
+    "confirmPassword":"123456",
+    "companyName":"Fake Carrier Co",
+    "homeLocation":"Los Angeles",
+    "docketType":"MC Number",
+    "docketNumber":"5445455554"
+
+
+}
